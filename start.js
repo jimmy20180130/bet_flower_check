@@ -3,7 +3,7 @@ const readline = require('readline')
 
 let appProcess = undefined;
 
-console.log('[INFO] 正在開始執行由 Jimmy 開發的 [廢土對賭機器人]');
+console.log('[INFO] 正在開始執行由 Jimmy 開發的 [廢土賭花機率測量機器人]');
 
 let rl = readline.createInterface({
     input: process.stdin,
